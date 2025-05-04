@@ -2,7 +2,7 @@
 
 _“Jack of all trades master of none, though oftentimes better than master of one.”_
 
-I'm Joe, and I write code.  I tend to work on projects and platforms that other people don't seem to want to work on, namely Windows Desktop development, and Android Development.  This tendency has also made it so that I'm basically unemployable in my local job market due to my unique experience not being what employers are looking for.  Therefore, I started a company called [BaseWeight](https://baseweight.ai) that specializes in AI development on Mobile and Edge devices.
+I'm Joe, and I write code.  I tend to work on projects and platforms that other people don't seem to want to work on, namely Windows Desktop development, and Android Development. I started a company called [BaseWeight](https://baseweight.ai) that specializes in AI development on Mobile and Edge devices.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infil00p&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
