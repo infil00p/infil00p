@@ -4,7 +4,7 @@ _“Jack of all trades master of none, though oftentimes better than master of o
 
 I'm Joe, and I write code. I work in the lost art of Desktop and Mobile development. I started a company called [BaseWeight](https://baseweight.ai) that specializes in AI development on Mobile and Edge devices.
 
-I also do Engineering Management for my day job where I manage seven engineers.
+I also do Engineering Management for my day job where I manage eight software engineers.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infil00p&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
