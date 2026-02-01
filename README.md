@@ -6,3 +6,4 @@ I'm Joe, and I write code. I work in the lost art of Desktop and Mobile developm
 
 I also do Engineering Management for my day job where I manage eleven software engineers.
 
+I also have a HuggingFace page over [here](https://huggingface.co/infil00p)
